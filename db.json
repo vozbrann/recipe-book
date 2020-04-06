@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "title": "Cousin David's Slow Cooker Brisket",
+      "category": "pork",
+      "createDate": "1585860215722",
+      "shortDesc": "This is a family recipe passed along by my late cousin David. It is so simple...just four ingredients thrown in the slow cooker! Not only is it great to come home to a hot delicious meal...your home will smell wonderful too! It is great with the extra gravy spooned over egg noodles or mashed potatoes.",
+      "longDesc": "Place the beef brisket into a slow cooker. In a medium bowl, mix together the chili sauce, onion soup mix, and garlic powder. Pour over the brisket. Cover, and cook on the Low setting for 8 to 10 hours. Slice the brisket against the grain, and pour the gravy over the slices.",
+      "id": 3
+    },
+    {
+      "title": "Бульон мясной 12",
+      "category": "Бульон",
+      "createDate": "1585860294395",
+      "shortDesc": "Как приготовить вкусный мясной бульон? Есть несколько секретов..",
+      "longDesc": "1. Мясо хорошенько вымыть холодной водой и положить в кастрюлю, залить холодной водой, накрыть крышкой и поставить на огонь.\n\n2. Как только вода закипит, уменьшить огонь так, чтобы не было бурного кипения. При бурном кипении бульон мутнеет.\n\n3. Жир и пену снимать шумовкой. Варить 1 час.\n\n4. Коренья очистить и добавить целыми в бульон вместе с перцем и лавровым листом. Так бульон будет насыщенней и ярче.\n\n5. Через 15 минут посолить бульон по вкусу и варить еще минут 15.\n\n6. Из готового бульона достать мясо, а сам бульон процедить и подавать к столу, посыпав зеленью.\n\nПриятного аппетита!",
+      "id": 4
+    }
+  ]
+}
